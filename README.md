@@ -10,6 +10,6 @@
 
 <img src="/Images/types_of_vpn.jpg" width="60%" height="60%">
 
-* Git Flow
+* Git Workflow
 
-<img src="/Images/git-flow.jpg" width="60%" height="60%">
+<img src="/Images/gitworkflow.jpg" width="60%" height="60%">
