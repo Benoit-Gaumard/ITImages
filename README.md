@@ -18,3 +18,10 @@
 
 <img src="/Images/Observalibity_Metrics.jpg" width="60%" height="60%">
 
+* Powershell Cheat Sheet
+
+<img src="/Images/ps_cheat_sheet.jpg" width="60%" height="60%">
+
+* OSI Model
+
+<img src="/Images/OSI_model.jpg" width="60%" height="60%">
