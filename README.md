@@ -13,3 +13,8 @@
 * Git Workflow
 
 <img src="/Images/gitworkflow.jpg" width="60%" height="60%">
+
+* Observability Metrics
+
+<img src="/Images/Observalibity_Metrics.jpg" width="60%" height="60%">
+
