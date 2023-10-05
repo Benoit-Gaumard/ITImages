@@ -25,3 +25,7 @@
 * OSI Model
 
 <img src="/Images/OSI_model.jpg" width="60%" height="60%">
+
+* Services Comparison 2
+
+<img src="/Images/Services_Comparison2.jpg" width="60%" height="60%">
