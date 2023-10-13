@@ -34,10 +34,6 @@
 
 <img src="/Images/CloudEngineerRoadmap.jpg" width="60%" height="60%">
 
-* Cloud Engineer Roadmap
-
-<img src="/Images/HowCICDWorks.jpg" width="60%" height="60%">
-
 * How CI/CD Works
 
 <img src="/Images/HowCICDWorks.jpg" width="60%" height="60%">
