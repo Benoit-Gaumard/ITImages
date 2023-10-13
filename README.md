@@ -29,3 +29,19 @@
 * Services Comparison 2
 
 <img src="/Images/Services_Comparison2.jpg" width="60%" height="60%">
+
+* Cloud Engineer Roadmap
+
+<img src="/Images/CloudEngineerRoadmap.jpg" width="60%" height="60%">
+
+* Cloud Engineer Roadmap
+
+<img src="/Images/HowCICDWorks.jpg" width="60%" height="60%">
+
+* How CI/CD Works
+
+<img src="/Images/HowCICDWorks.jpg" width="60%" height="60%">
+
+* Dev Secops in a Nutshell
+
+<img src="/Images/DevSecopsNutshell.jpg" width="60%" height="60%">
